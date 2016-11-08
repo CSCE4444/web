@@ -2,7 +2,7 @@
 
 
 
-$conn = mysqli_connect("csce4444.com", "user_eg", "13669618", "Database_Project");
+$conn = mysqli_connect("csce4444.com", "user_eg", "11111111", "db");
 
 
 
