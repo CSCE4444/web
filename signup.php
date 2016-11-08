@@ -41,5 +41,7 @@ VALUES ('$first','$last','$email','$phone','$uid','$pwd')";
 
 $result = mysqli_query($conn, $sql);
 
+// Now redirect user to the homepage after registration is complete
+// TODO: redirect user to a "thanks for registering" page instead
 header("Location: index.html");
 ?>
