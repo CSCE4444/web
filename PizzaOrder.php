@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "user_eg";
-$password = "13669618";
-$currentdb="Database_Project";
+$username = "username";
+$password = "999999999";
+$currentdb= "default";
 
 
 $Method = check_input($_POST['method']);
